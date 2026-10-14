@@ -1,0 +1,6 @@
+{
+  "name": "DompetRamah - Keuangan Smartphone Cerdas",
+  "description": "Aplikasi keuangan smartphone yang ramah dan hangat dengan kartu saldo emerald, pemindai struk belanja, dompet visual rekening, dan analisis kas pintar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
